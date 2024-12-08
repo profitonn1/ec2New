@@ -61,7 +61,7 @@ input:checked ~ span:last-child {
 
 
 
-/* open , close scroll bar  in terminal
+/* open , close scroll bar  in terminal*/
 /* Custom scrollbar styles */
 .custom-scrollbar::-webkit-scrollbar {
   width: 2px; /* Very thin vertical scrollbar */
